@@ -27,7 +27,7 @@
 
 def roll_call_dwarves(names)
   collection.each do |name|
-    puts #{name}
+    puts name
   end
 
 end
